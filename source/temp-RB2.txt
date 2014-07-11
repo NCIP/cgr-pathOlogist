@@ -1,0 +1,4 @@
+Pathway Name	A498_226080_rapamycin_0_nM_24h_U133A.CEL	A549_226080_rapamycin_0_nM_2h_U133A.CEL	A549_226080_rapamycin_0_nM_6h_U133A.CEL	A549_226080_rapamycin_0_nM_24h_U133A.CEL	ACHN_226080_rapamycin_0_nM_2h_U133A.CEL	ACHN_226080_rapamycin_0_nM_6h_U133A.CEL
+1,4-dichlorobenzene degradation(kegg)	NaN	NaN	NaN	NaN	NaN	NaN
+1- and 2-methylnaphthalene degradation(kegg)	1.0000	1.0000	1.0000	1.0000	1.0000	1.0000
+3-chloroacrylic acid degradation(kegg)	1.0000	1.0000	1.0000	1.0000	1.0000	1.0000
